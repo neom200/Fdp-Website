@@ -1,0 +1,25 @@
+{
+  "name": "NodeJS-Api",
+  "version": "1.0.0",
+  "description": "Um estudo de APIs através da criação de uma api com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neom200/NodeJS-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neom200/NodeJS-Api/issues"
+  },
+  "homepage": "https://github.com/neom200/NodeJS-Api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}

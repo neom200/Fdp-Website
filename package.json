@@ -4,7 +4,7 @@
   "description": "Um estudo de APIs através da criação de uma api com Node.js",
   "main": "index.js",
   "engines":{
-      "node": ">=14.17.5"
+      "node": ">=14.17 <=16.8"
   },
   "scripts": {
     "start": "nodemon server.js",

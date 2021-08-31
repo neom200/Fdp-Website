@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "nodemon server.js",
-    "build": "npm build",
+    "build": "npm run build",
     "dev": "npm install"
   },
   "repository": {

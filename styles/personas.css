@@ -5,18 +5,19 @@ body {
 
 #topo {
     border: 1px solid black;
-    width: 50%;
-    margin-left: 25%;
+    width: 70%;
+    margin-left: 15%;
     background-color: burlywood;
 }
 #topo img {
-    margin-left: 20%;
+    margin-left: 10%;
+    width: 70%;
 }
 
 #features {
     border: 1px solid black;
-    width: 50%;
-    margin-left: 25%;
+    width: 70%;
+    margin-left: 15%;
     background-color: rgb(209, 27, 27);
 }
 #features tr td {

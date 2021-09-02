@@ -1,11 +1,5 @@
-# NodeJS-Api
-Um estudo de APIs através da criação de uma api com Node.js.
+Site de Família do Pesadelo
 
-[Passos conquistados]:
-(1) Conexão com app em Express
-(2) Envio e utilização de páginas estáticas (HTML, CSS, JS)
-(3) Utilização de Router
+Família do Pesadelo é uma séria amadora disponível no Youtube, criada pelos paranaenses Lucas L. de Souza e Ian I. J. Martini.
 
-[Passos à completar]:
-(1) Criação e conexão banco de dados Postgres
-(2) Termino de um CRUD básico
+FdP acompanha a história de uma família muito loca que vive altas desventuras, principalmente enfrentando criminosos que tentam derrota-los a qualquer custo.
